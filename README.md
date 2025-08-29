@@ -2,11 +2,17 @@
 
 Hello, I have been programming since 2013 and since 2018 in FiveM/RedM. Below are my skills and expertise:
 
+## Game Design
+* Competitive game modes
+* Thematic mechanics and minigames
+* Gameplay balancing and prototyping
+
 
 ## Server-side Scripting
-* Discovering and fixing exploits (e.g. [#1](https://github.com/Gum-Core/gum_inventory/issues/2), [#2](https://github.com/RedEM-RP/redemrp_inventory/issues/49), [#3](https://github.com/RedEM-RP/redemrp_shops/issues/3), [#4](https://github.com/RedEM-RP/redemrp_inventory/compare/main...draobrehtom:redemrp_inventory:main), [#5](https://github.com/Gum-Core/gum_inventory/compare/main...draobrehtom:gum_inventory:main), [#6](https://github.com/Rexshack-RedM/rsg-inventory/compare/main...draobrehtom:rsg-inventory:main)).
-* Scripts Network Usage Optimization.
-* Scripts Security.
+* Scripts Network Usage Optimization
+* Scripts Security
+* Discovering and fixing exploits (e.g. [#1](https://github.com/Gum-Core/gum_inventory/issues/2), [#2](https://github.com/RedEM-RP/redemrp_inventory/issues/49), [#3](https://github.com/RedEM-RP/redemrp_shops/issues/3), [#4](https://github.com/RedEM-RP/redemrp_inventory/compare/main...draobrehtom:redemrp_inventory:main), [#5](https://github.com/Gum-Core/gum_inventory/compare/main...draobrehtom:gum_inventory:main), [#6](https://github.com/Rexshack-RedM/rsg-inventory/compare/main...draobrehtom:rsg-inventory:main))
+
 
 ## Client-side Scripting
 
