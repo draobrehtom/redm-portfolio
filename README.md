@@ -47,21 +47,21 @@ Hello, I have been programming since 2013 and since 2018 in FiveM/RedM. Below ar
 
 ## Scripts
 
-- [Squid Game](https://forum.cfx.re/t/red-light-challenge-squid-game-in-rdr2-lore-firendly/5272965/)
+- [[PAID] Squid Game](https://forum.cfx.re/t/red-light-challenge-squid-game-in-rdr2-lore-firendly/5272965/)
 
-- [Dragon Rider Script](https://forum.cfx.re/t/dragon-rider-script/5308735)
+- [[PAID] Dragon Rider Script](https://forum.cfx.re/t/dragon-rider-script/5308735)
 
-- [Bear Trap and Hunting system](https://forum.cfx.re/t/bear-trap-system-with-baits/5172738/)
+- [[PAID] Bear Trap and Hunting system](https://forum.cfx.re/t/bear-trap-system-with-baits/5172738/)
 
-- [Health, Stamina and Deadeye System](https://forum.cfx.re/t/library-health-stamina-and-dead-eye/5181509/)
+- [[FREE] Health, Stamina and Deadeye System](https://forum.cfx.re/t/library-health-stamina-and-dead-eye/5181509/)
 
-- [Weapon Damage System](https://forum.cfx.re/t/custom-weapon-damage-pvp-or-pvpve/5246211/)
+- [[FREE] Weapon Damage System](https://forum.cfx.re/t/custom-weapon-damage-pvp-or-pvpve/5246211/)
 
-- [Lantern Equipment from Horse to Hands and opposite](https://forum.cfx.re/t/equip-lantern-on-horse/5245312/)
+- [[FREE] Lantern Equipment from Horse to Hands and opposite](https://forum.cfx.re/t/equip-lantern-on-horse/5245312/)
 
-- [Teleports](https://forum.cfx.re/t/redm-teleports/4964929/)
+- [[FREE] Teleports](https://forum.cfx.re/t/redm-teleports/4964929/)
 
-- [Custom Weapon Wheel](https://forum.cfx.re/t/library-custom-weapon-wheel/5247922/)
+- [[FREE] Custom Weapon Wheel](https://forum.cfx.re/t/library-custom-weapon-wheel/5247922/)
 
 ## Tutorials
 
