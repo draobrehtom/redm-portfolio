@@ -71,6 +71,8 @@ Hello, I have been programming since 2013 and since 2018 in FiveM/RedM. Below ar
 
 - [How to solve RedMenu delay issue](https://forum.cfx.re/t/how-to-solve-the-redmenu-skin-delay-scripting-tutorial/5177005)
 
+- [How to script in RedM](https://forum.cfx.re/t/tutorial-redm-scripting-tutorial-for-beginners-part-1-runcode/5356271)
+
 ## Other Works:
 
 <details>
